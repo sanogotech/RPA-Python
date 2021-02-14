@@ -1,0 +1,23 @@
+1613317084639	geckodriver	INFO	Listening on 127.0.0.1:49253
+1613317087783	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\SOULEY~1\\AppData\\Local\\Temp\\rust_mozprofileKpbk8H"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613317098950	Marionette	INFO	Listening on port 49262
+1613317099770	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613317099827	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\SOULEY~1\\AppData\\Local\\Temp\\rust_mozprofilemofrG8"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613317133141	Marionette	INFO	Listening on port 49341
+1613317133530	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613317133539	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SOULEY~1\\AppData\\Local\\Temp\\rust_mozprofile0BOtZw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613317235704	Marionette	INFO	Listening on port 49417
+1613317235754	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613317235764	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
